@@ -21,6 +21,7 @@ javascript:(()=>{alert(1)})()
 
 ### Works with:
 - Chrome
+- Edge
 
 ---
 
@@ -43,3 +44,4 @@ javascript:(()=>{var box = document.createElement("div");box.style = "position:f
 
 ### Works with:
 - Chrome
+- Edge
